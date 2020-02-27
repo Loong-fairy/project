@@ -1,0 +1,11 @@
+*.pyc
+*~
+__pycache__/
+.DS_Store
+.vscode
+.env
+.idea
+*.db
+.coverage
+htmlcov
+env/
